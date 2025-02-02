@@ -1,4 +1,4 @@
-Implementation of the paper Sequence to Sequence Learning with Neural Networks
+Implementation of the paper (Sequence to Sequence Learning with Neural Networks)[https://paperswithcode.com/paper/sequence-to-sequence-learning-with-neural]
 
 WORK STILL IN PROGRESS.
 
